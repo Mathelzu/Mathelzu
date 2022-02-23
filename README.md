@@ -1,7 +1,7 @@
-<div align="center">
+<div>
 <h3>Hi, i'm Matheus👋</h3>
-  <p>- 📖 I’m currently learning Python</p>
-  <p>- 😄 Pronouns: He/Him</p>
+  <br>
+  <p>📖 I’m currently learning Python</p>
 </div>
 <div align="center">
   <h3> Stats: </h3>
