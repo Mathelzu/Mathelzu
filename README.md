@@ -1,7 +1,7 @@
 <div>
 <h3>Hi, i'm Matheus👋</h3>
   <br>
-  <p>📖 I’m currently learning Python</p>
+  <p>📖 I’m currently learning HTML/CSS</p>
 </div>
 <div>
   <h3> Stats: </h3>
