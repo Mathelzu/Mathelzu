@@ -1,7 +1,10 @@
 <div>
-<h3>Hi, i'm Matheus👋</h3>
+<h1>Hello World! i'm Matheus</h1>
   <br>
-  <p>📖 I’m currently learning JavaScript</p>
+  <ul>
+    <li>📖 I’m currently learning JavaScript</li>
+    <li>⏳ I'm 18 years old</li>
+  </ul>
 </div>
 <div>
   <h3> Stats: </h3>
