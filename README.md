@@ -2,7 +2,7 @@
 <h1>Hello World! i'm Matheus</h1>
   <br>
   <ul>
-    <li>📖 I’m currently learning JavaScript</li>
+    <li>📖 I’m currently learning JAVA</li>
     <li>⏳ I'm 18 years old</li>
   </ul>
 </div>
